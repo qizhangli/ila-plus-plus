@@ -165,6 +165,7 @@ def attack(ILA:bool, w, ori_img, label, device, niters, baseline_method, epsilon
     loss_ls = []
     for i in range(niters + 1):
         if baseline_method == 'pgd' and not ILA:
+            # In our implementation of PGD, we incorporate randomness at each iteration to further enhance the transferability
             img_x = img + img.new(img.size()).uniform_(-epsilon, epsilon).to(device)
         else:
             img_x = img
