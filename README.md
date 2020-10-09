@@ -66,3 +66,15 @@ The following resources are very helpful for our work:
 * [Pretrained models for ImageNet](https://github.com/Cadene/pretrained-models.pytorch)
 * [Pretrained models for CIFAR-100](https://github.com/bearpaw/pytorch-classification)
 * [GDAS](https://github.com/D-X-Y/GDAS)
+
+## Citation
+Please cite our work in your publications if it helps your research:
+
+```
+@article{li2020yet,
+  title={Yet Another Intermediate-Level Attack},
+  author={Li, Qizhang and Guo, Yiwen and Chen, Hao},
+  journal={arXiv preprint arXiv:2008.08847},
+  year={2020}
+}
+```
