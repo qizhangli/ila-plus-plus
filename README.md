@@ -1,5 +1,5 @@
 # ILA-plus-plus
-Code for our ECCV 2020 paper **Yet Another Intermediate-Level Attack**.
+Code for our ECCV 2020 paper [Yet Another Intermediate-Level Attack](https://arxiv.org/abs/2008.08847).
 
 ## Requirements
 * Python 3.7
