@@ -71,10 +71,10 @@ The following resources are very helpful for our work:
 Please cite our work in your publications if it helps your research:
 
 ```
-@article{li2020yet,
+@inproceedings{li2020yet,
   title={Yet Another Intermediate-Level Attack},
   author={Li, Qizhang and Guo, Yiwen and Chen, Hao},
-  journal={arXiv preprint arXiv:2008.08847},
+  booktitle={ECCV}
   year={2020}
 }
 ```
