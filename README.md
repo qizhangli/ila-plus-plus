@@ -74,7 +74,15 @@ Please cite our work in your publications if it helps your research:
 @inproceedings{li2020yet,
   title={Yet Another Intermediate-Level Attack},
   author={Li, Qizhang and Guo, Yiwen and Chen, Hao},
-  booktitle={ECCV}
+  booktitle={ECCV},
   year={2020}
+}
+
+@article{guo2022intermediate,
+title={An Intermediate-level Attack Framework on The Basis of Linear Regression},
+author={Guo, Yiwen and Li, Qizhang and Zuo, Wangmeng and Chen, Hao},
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+year={2022},
+publisher={IEEE}
 }
 ```
